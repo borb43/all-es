@@ -1,0 +1,13 @@
+{
+"id": "all_es",
+"name": "Oops! All es",
+"display_name": "Oops! All e's",
+"author": ["Eris"],
+"description": "",
+"prefix": "all_es",
+"main_file": "main.lua",
+"priority": 0,
+"badge_colour": "FFFFFF",
+"version": "1.0.0",
+"dependencies": ["Steamodded"]
+}
